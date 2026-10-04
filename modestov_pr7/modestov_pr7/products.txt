@@ -1,0 +1,5 @@
+101;Noutbuk;Elektronika;55000;5
+102;Mysh;Periferiya;1500;20
+103;Klaviatura;Periferiya;3200;12
+104;Monitor;Elektronika;18500;3
+105;Naushniki;Periferiya;4500;8
